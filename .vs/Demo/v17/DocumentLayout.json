@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\demo\\pages\\content\\addpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|solutionrelative:demo\\pages\\content\\addpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\demo\\pages\\content\\addpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|solutionrelative:demo\\pages\\content\\addpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|c:\\users\\slava\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0434\u0435\u043C\u043E\\demo\\demo\\pages\\content\\catalogpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|solutionrelative:demo\\pages\\content\\catalogpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\demo\\pages\\content\\catalogpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|solutionrelative:demo\\pages\\content\\catalogpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|c:\\users\\slava\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0434\u0435\u043C\u043E\\demo\\demo\\entityes\\partialclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|solutionrelative:demo\\entityes\\partialclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\demo\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|solutionrelative:demo\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\demo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|solutionrelative:demo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\demo\\pages\\regpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|solutionrelative:demo\\pages\\regpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\demo\\pages\\authpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|solutionrelative:demo\\pages\\authpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\demo\\classes\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|solutionrelative:demo\\classes\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\demo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|solutionrelative:demo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\demo\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|solutionrelative:demo\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\demo\\pages\\regpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|solutionrelative:demo\\pages\\regpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\demo\\pages\\authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C4E3DB9-A0EC-4884-AE78-99BE60C29274}|Demo\\Demo.csproj|solutionrelative:demo\\pages\\authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 237,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PartialClass.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\Entityes\\PartialClass.cs",
+              "RelativeDocumentMoniker": "Demo\\Entityes\\PartialClass.cs",
+              "ToolTip": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\Entityes\\PartialClass.cs",
+              "RelativeToolTip": "Demo\\Entityes\\PartialClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T09:11:12.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Demo\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\App.xaml.cs",
+              "RelativeToolTip": "Demo\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T20:51:59.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddPage.xaml",
+              "DocumentMoniker": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\Pages\\Content\\AddPage.xaml",
+              "RelativeDocumentMoniker": "Demo\\Pages\\Content\\AddPage.xaml",
+              "ToolTip": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\Pages\\Content\\AddPage.xaml",
+              "RelativeToolTip": "Demo\\Pages\\Content\\AddPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-05T15:54:21.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatalogPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\Pages\\Content\\CatalogPage.xaml.cs",
+              "RelativeDocumentMoniker": "Demo\\Pages\\Content\\CatalogPage.xaml.cs",
+              "ToolTip": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\Pages\\Content\\CatalogPage.xaml.cs",
+              "RelativeToolTip": "Demo\\Pages\\Content\\CatalogPage.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T11:06:54.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CatalogPage.xaml",
+              "DocumentMoniker": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\Pages\\Content\\CatalogPage.xaml",
+              "RelativeDocumentMoniker": "Demo\\Pages\\Content\\CatalogPage.xaml",
+              "ToolTip": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\Pages\\Content\\CatalogPage.xaml",
+              "RelativeToolTip": "Demo\\Pages\\Content\\CatalogPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-05T10:42:24.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\Pages\\RegPage.xaml.cs",
+              "RelativeDocumentMoniker": "Demo\\Pages\\RegPage.xaml.cs",
+              "ToolTip": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\Pages\\RegPage.xaml.cs",
+              "RelativeToolTip": "Demo\\Pages\\RegPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T09:27:37.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\Pages\\AuthPage.xaml.cs",
+              "RelativeDocumentMoniker": "Demo\\Pages\\AuthPage.xaml.cs",
+              "ToolTip": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\Pages\\AuthPage.xaml.cs",
+              "RelativeToolTip": "Demo\\Pages\\AuthPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T10:25:09.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\Pages\\Content\\AddPage.xaml.cs",
+              "RelativeDocumentMoniker": "Demo\\Pages\\Content\\AddPage.xaml.cs",
+              "ToolTip": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\Pages\\Content\\AddPage.xaml.cs",
+              "RelativeToolTip": "Demo\\Pages\\Content\\AddPage.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAtwDkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:54:24.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\Classes\\UserRole.cs",
+              "RelativeDocumentMoniker": "Demo\\Classes\\UserRole.cs",
+              "ToolTip": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\Classes\\UserRole.cs",
+              "RelativeToolTip": "Demo\\Classes\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T20:48:24.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Demo\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Demo\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T20:47:56.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Demo\\Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "Demo\\Pages\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-24T10:43:30.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Demo\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "Demo\\Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T10:42:33.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthPage.xaml",
+              "DocumentMoniker": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\Pages\\AuthPage.xaml",
+              "RelativeDocumentMoniker": "Demo\\Pages\\AuthPage.xaml",
+              "ToolTip": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\Pages\\AuthPage.xaml",
+              "RelativeToolTip": "Demo\\Pages\\AuthPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-24T09:55:46.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegPage.xaml",
+              "DocumentMoniker": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\Pages\\RegPage.xaml",
+              "RelativeDocumentMoniker": "Demo\\Pages\\RegPage.xaml",
+              "ToolTip": "C:\\Users\\slava\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430 4 \u043A\u0443\u0440\u0441\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\u0414\u0435\u043C\u043E\\Demo\\Demo\\Pages\\RegPage.xaml",
+              "RelativeToolTip": "Demo\\Pages\\RegPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-24T09:07:55.171Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
