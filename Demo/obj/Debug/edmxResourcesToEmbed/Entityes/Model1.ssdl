@@ -45,6 +45,7 @@
     <Property Name="Name" Type="nvarchar" MaxLength="50" />
     <Property Name="Password" Type="nvarchar(max)" />
     <Property Name="IdRole" Type="int" />
+    <Property Name="PhotoProfile" Type="varbinary(max)" />
   </EntityType>
   <Association Name="FK_Tovars_Classifications">
     <End Role="Classifications" Type="Self.Classifications" Multiplicity="0..1" />

@@ -1,5 +1,4 @@
-﻿using Demo.Entityes;
-using Microsoft.Win32;
+﻿using Microsoft.Win32;
 using System.IO;
 using System.Linq;
 using System.Windows;

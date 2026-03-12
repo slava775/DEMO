@@ -20,6 +20,7 @@ namespace Demo.Entityes
         public string Name { get; set; }
         public string Password { get; set; }
         public Nullable<int> IdRole { get; set; }
+        public byte[] PhotoProfile { get; set; }
     
         public virtual Role Role { get; set; }
     }

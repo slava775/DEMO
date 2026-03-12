@@ -67,6 +67,7 @@
     <EntitySetMapping Name="Users">
       <EntityTypeMapping TypeName="DemoModel.User">
         <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="PhotoProfile" ColumnName="PhotoProfile" />
           <ScalarProperty Name="IdRole" ColumnName="IdRole" />
           <ScalarProperty Name="Password" ColumnName="Password" />
           <ScalarProperty Name="Name" ColumnName="Name" />

@@ -104,6 +104,7 @@
     <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
     <Property Name="Password" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
     <Property Name="IdRole" Type="Int32" />
+    <Property Name="PhotoProfile" Type="Binary" MaxLength="Max" FixedLength="false" />
     <NavigationProperty Name="Role" Relationship="DemoModel.FK_Users_Roles" FromRole="User" ToRole="Role" />
   </EntityType>
   <Association Name="FK_Tovars_Classifications">

@@ -25,7 +25,7 @@ namespace Demo.Pages
                 return;
             }
 
-            var currentUser = App.Context.Users.FirstOrDefault(p => p.Login == TbLogin.Text && p.Password == TbPassword.Text);
+            var currentUser = App.Context.Users.FirstOrDefault(p => p.Login == TbLogin.Text && p.Password == TbPassword.Password);
 
             if (currentUser == null)
             {
@@ -34,7 +34,7 @@ namespace Demo.Pages
             }
 
             App.CurrentUser = currentUser;
-            App.CurrentUser.Password = TbPassword.Text;
+            App.CurrentUser.Password = TbPassword.Password;
 
             if (currentUser.IdRole == UserRole.Admin || currentUser.IdRole == UserRole.RegularUser)
             {

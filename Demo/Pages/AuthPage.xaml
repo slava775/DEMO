@@ -18,7 +18,7 @@
                 </StackPanel>
                 <StackPanel>
                     <TextBlock Text="Пароль:" FontSize="25" Margin="0 0 0 5"/>
-                    <TextBox x:Name="TbPassword" Height="30" Padding="5"/>
+                    <PasswordBox x:Name="TbPassword" Height="30" Padding="5"/>
                 </StackPanel>
                 <Button x:Name="BtnReg" Content="Войти" Height="40" Padding="5" FontSize="20" FontWeight="Bold" Margin="0 15 0 10" Click="BtnReg_Click"/>
 
